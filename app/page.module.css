@@ -42,3 +42,11 @@
 .hoverText:has(+ .hoverText + .hoverText:hover) {
   font-weight: 300;
 }
+
+
+.person {
+  text-align: center; 
+  /* font-size: 4rem;  */
+  font-weight: 500; 
+  color: aqua; 
+}

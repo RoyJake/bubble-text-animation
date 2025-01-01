@@ -33,6 +33,7 @@ const BubbleText = () => {
           </span>
         ))}
       </h2>
+      <h3 className={styles.person}>- Mark Twain</h3>
     </>
   );
 };
